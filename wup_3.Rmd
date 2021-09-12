@@ -59,4 +59,8 @@ According to this chart the middle and front do not have a difference, however t
 
 ## Conclusions
 
-
+In conclusion we found out there is 3 different categories. We had to use anova to determine the amount of drinks per week by the rows people sat in. 
+Based on the chart, the back row drinks 8.5 more drinks than the middle row, drinking 3.3 drinks per week. The front row drinks 1.7 per week. It is reasonable to assume that they are noot drinking the same amount.
+The P value represents the chances of getting the result like we just obtained if the null hypothesis is actually true. Since the result is so small I reject the null hypothesis. 
+We now need to try to discover what is different from the other. 
+According to this chart the middle and front do not have a difference, however the front-back and the back-middle are different. 
